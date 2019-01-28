@@ -12,7 +12,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
-- [ X ] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [X] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 #### BONUS
 - [X] (2pts) Views should be responsive for both landscape/portrait mode.
@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 `TODO://` 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthrough1.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
